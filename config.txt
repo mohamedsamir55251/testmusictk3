@@ -1,0 +1,6 @@
+owner=405760050154700800
+prefix=3
+game=The Killer
+stayinchannel=true
+songinstatus=true
+token=NTY3ODM3MTYyMjg0OTA4NTUx.XLZWUw.MdBxv_PqYhbdd3cQUzC1Ody1iFo
